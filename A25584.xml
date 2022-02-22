@@ -1,0 +1,166 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ansvver to the city-conformists letter from the country clergy-man, about reading His Majesties declaration. With allowance.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25584</idno>
+            <idno type="STC">Wing A3399A</idno>
+            <idno type="STC">ESTC R214872</idno>
+            <idno type="EEBO-CITATION">99826926</idno>
+            <idno type="PROQUEST">99826926</idno>
+            <idno type="VID">31338</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25584)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31338)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1901:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ansvver to the city-conformists letter from the country clergy-man, about reading His Majesties declaration. With allowance.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Mary Thompson, at the entrance into the Old-Spring Garden, near Charing-Cross,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Trinity College (University of Cambridge) Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Liberty of conscience --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1603-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:31338:1"/>
+            <pb facs="tcp:31338:1" rendition="simple:additions"/>
+            <p>AN ANSWER TO THE City-Conformiſts Letter, FROM THE Country Clergy-man, About Reading His Majeſties DECLARATION.</p>
+            <p>
+               <hi>With Allowance.</hi>
+            </p>
+            <figure/>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Mary Thompſon,</hi> at the Entrance into the <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> near <hi>Charing-Croſs,</hi> 1688.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:31338:2"/>
+            <pb n="3" facs="tcp:31338:2"/>
+            <head>The Country Clergy-Man's Anſwer to the City Conformiſts Letter, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>YOU tell me you do not wonder at my Concern for finding an Order of Council publiſh'd in the <hi>Gazette</hi> for reading the King's Declaration for <hi>Liberty of Conſcience.</hi> But I muſt aſſure you, that when I heard that the <hi>London</hi> Clergy re<g ref="char:EOLhyphen"/>fus'd to read it, I cou'd not forbear Wonder<g ref="char:EOLhyphen"/>ing.</p>
+            <p>That there was an Order given for the Reading it, did at firſt ſurpriſe me; for the Reaſons of it did not immediately occurr to my Thoughts: But that any of the Clergy, eſpecially the Right Reverend Fathers the Biſhops, decline the Publiſhing of it, ſur<g ref="char:EOLhyphen"/>priſes me more; and the Reaſons they give, moſt of all.</p>
+            <p>There is (I confeſs) a great deal in what you have on the en<g ref="char:EOLhyphen"/>trance of your Letter ſuggeſted. For to read the Declaration, is not to read the <hi>Maſs,</hi> nor to profeſs the <hi>Romiſh Faith;</hi> and there<g ref="char:EOLhyphen"/>fore no hurt in reading it; and to ſuffer for ſuch a Refuſal is not to fall like Confeſſors, but to ſuffer as Criminals, for diſobeying the lawful Commands of our Prince. Thus much, you think, will be the ſenſe of ſome: And there is ſo much cauſe to move the conſidering mind to conclude thus, that I think you right in your Notion of it: and do further believe, that not the Complying, but the Refuſal to comply with this Order; on the Grounds you do, will provoke all Good Men to deſpiſe and hate us. For,</p>
+            <p n="1">1. Hitherto the Government has been a Screen between our Clergy and the Cenſures of the People. There are Laws againſt Diſſenters, we cou'd ſay, and Laws muſt be obſerv'd: We had no hand in the making of thoſe Laws, and cou'd wiſh 'em alter'd, but 'twas not in our power to do it. This has been the way we were forc'd to take, to the end we might be ſecur'd from the Peo<g ref="char:EOLhyphen"/>ples
+<pb n="4" facs="tcp:31338:3"/>Rage and Clamour; which by this means always paſt over us, and lighted on the Government. But now the Government being for a Remove of thoſe Laws, the Clergies ſtickling ſo ve<g ref="char:EOLhyphen"/>ry much for their Continuance, expoſes us; and we ſhall not be able to ſay, it is the Government; but 'twill be ſaid, it is the Clergy that were for the Making, as well as Execution of Penal Laws. Beſides,</p>
+            <p n="2">2. You do hereby put us out of a Capacity of vindicating our ſelves from the Reproach of being <hi>Perſecutors.</hi> Hitherto we have been able with ſome plauſibleneſs to ſay, That none were puniſh'd for their Religion, or their Conſciences; but for their Faction, their Sedition and Rebellion. Our Laws declar'd the matters Re<g ref="char:EOLhyphen"/>ligious for which any fell under their Laſh, to be a Crime againſt the Civil State. And 'twas for that, the <hi>Papiſts</hi> and <hi>Phaenaticks</hi> ſuffer'd. His Majeſties Grand-father, of Bleſſed Memory, inſiſts on this; and ſo did Sir <hi>Edw. Coke.</hi> But now His Majeſty diſtin<g ref="char:EOLhyphen"/>guiſhing between matters of mere Religion, and thoſe other Re<g ref="char:EOLhyphen"/>ligious matters that are ſo blended with the Civil State, that the Error in Religion is a Crime againſt the Government, is reſolv'd to do his part, towards the ſeparating the one from the other, and to extend Liberty to all in matters of mere Religion, but no further. Our oppoſition therefore unto this, will inſinuate into the minds of the People, that we do in good earneſt deſire, that Laws may be continued in force againſt men for matters of mere Religion: whereby we ſhall be inevitably involv'd in the odious Reproach of being Perſecutors of Godly Conſcientious Men. But,</p>
+            <p n="3">3. The inſiſting on the <hi>Illegality</hi> of the Diſpenſing power, as a Reaſon of the Refuſal, is one of the moſt impolitick things in the World. For,</p>
+            <p n="1">1. We have hereby loſt that Intereſt we had all along in the favour of the Prince. If we will be juſt in our acknowledgments, we muſt confeſs that we had been long ago a loſt Church, had we not the Crown on our ſide to ſupport us. It is the Monarch that has been the Bulwark of the Church of <hi>England,</hi> and we by aſſerting the Prerogative, which comprehends within it the Diſpenſing power, gain'd an Intereſt in him, who on all occaſions hazarded himſelf for our Defence. The Biſhop aſſerted the Prero<g ref="char:EOLhyphen"/>gative,
+<pb n="5" facs="tcp:31338:3"/>and the <hi>Prerogative</hi> preſerv'd the <hi>Biſhop.</hi> And the <hi>Bi<g ref="char:EOLhyphen"/>ſhops</hi> by oppoſing <hi>Prerogative,</hi> have broke down the Bulwark of our Church. And tho' with Grief, yet in Truth, we may ſay: Our Glory is gone, our Strength is departed. You have now made a Divorce between the <hi>Crown</hi> and the Church of <hi>England-Mitre;</hi> and muſt never more expect to be the Darling of a Crown'd-Head. No Prince can take pleaſure in thoſe that have contrary to their avow'd Principles, without any juſt provocation, as you have done, broke the <hi>Crown</hi> in pieces.</p>
+            <p n="2">
+               <hi>2dly.</hi> We have Condemn'd our ſelves, and juſtify'd the <hi>Diſ<g ref="char:EOLhyphen"/>ſenters</hi> in this. The Reaſon why we have for many years toge<g ref="char:EOLhyphen"/>ther Repreſented the <hi>Diſſenters,</hi> even from the <hi>Pulpit,</hi> to be Men of Factious, Seditious and Rebellious Principles, was grounded on their Narrowing the <hi>Prerogative,</hi> and Limiting the <hi>Monarchy:</hi> which we ſaid, they did, by refuſing to Declare, that they wou'd not value ſuch Commiſſions as were granted by the Imperial Power, the <hi>Prorogative,</hi> more than the <hi>King</hi>'s Authority, which is the Laws of the Land. We were ſenſible of the Miſchief of the old <hi>Puritanick Doctrine,</hi> that made the Law to be the Mouth of the <hi>King,</hi> and held, that the <hi>King</hi> was Obey'd and Fought for, when 'twas againſt His Perſon, if 'twas in Defenſe of the <hi>Politick Laws.</hi> and we clearly ſaw, that there was no other way to obviate the Miſchief of this their Seditious Doctrine; but by inventing and impoſing the <hi>Declaration</hi> of <hi>Abborrence,</hi> which all the Clergy Subſcribe, and in which they Declare: <hi>That thoſe Commiſſions that are given out by the</hi> Imperial Power, <hi>contrary to the Law, muſt be much more deferred unto, than the Law of the Land; and that all thoſe that hold the contrary, are for the Trayterous Poſition.</hi>
+            </p>
+            <p>But by this Oppoſition to His Majeſty's <hi>Declaration,</hi> we regard not the <hi>Imperial Law;</hi> no, nor the Exerciſe of the <hi>Royál Power,</hi> tho' agreeable to our Laws: And contrary to our Solemn <hi>Vows</hi> and <hi>Declarations,</hi> have ſet up the <hi>King's Authority</hi> above His <hi>Regal Power;</hi> and as one of our Divines very lately, do make the Law, the Mouth of the <hi>King;</hi> and aver, <hi>That our Obedience muſt not be to the Private, but Publick Declaration of His Will;</hi> whereby we run ſo far, as to juſtifie that Parliament, which Fought againſt His Majeſty's Royal Father; whom notwithſtanding His enga<g ref="char:EOLhyphen"/>ging
+<pb n="6" facs="tcp:31338:4"/>to the loſs of His Life, in our Quarrel, we now condemn; and Publiſh to the World; That the <hi>Diſſenters</hi> were all along in the right. We cannot now ſay, that the <hi>Diſſenters</hi> were <hi>Factious, Seditious,</hi> and <hi>Rebellious</hi> heretofore, but by Condemning our ſelves for ſuch at this time.</p>
+            <p n="4">
+               <hi>4ly.</hi> In a word, you have by this Act, expoſed our Miniſtry to the greateſt Scorn and Contempt. For how can any wiſe Man reflected on what has been the burden of our Preaching, for many years together, in the Defence of the <hi>Prerogative,</hi> and ſee how we have at once given the Lye to all, and regard us any more? That we have, as the Embaſſadors of Chriſt, and in the Name of the Lord, Publiſh'd ſo very much in the Exalting the <hi>Prerogative,</hi> under the Notion of <hi>Divine Truth;</hi> and now pre<g ref="char:EOLhyphen"/>tend, that we are bound in Conſcience, boldly to contradict all; is ſuch a <hi>Soliſcim,</hi> as will render it impoſſible for Men of Candor and Integrity to entertain any tollerable Thoughts of us or our <hi>Miniſtry.</hi> And thoſe very Gentlemen which have wheedl'd you into this Snare, will neglect and ſcorn you.</p>
+            <p>The Reaſons you give for your Refuſal, make our Caſe the more deplorable. You in the firſt place, take it for granted, <hi>That no</hi> Church-<hi>of</hi>-England-Man <hi>can approve of the</hi> Declaration. And then add: <hi>That Reading it, is an</hi> Overt-Act <hi>of Approbation. And to de<g ref="char:EOLhyphen"/>clare otherwiſe, is,</hi> Proteſtatio contra Factum. <hi>And the very Reading it will influence the Multitude, to do their utmoſt that</hi> Penal Laws <hi>and</hi> Teſts <hi>be taken off, and do what will Reflect on thoſe Noble-Men and Gentry, that have loſt their Places for being against it.</hi> This is the Sum of what you ſay: To which I will diſtinctly Reply.</p>
+            <p n="1">
+               <hi>1ſt.</hi> To what you take <hi>pro confeſſo:</hi> None of our Clergy ap<g ref="char:EOLhyphen"/>prove of the <hi>Declaration.</hi> I Anſwer, That many ſober Men amongſt us do approve both of the <hi>Liberty of Conſcience,</hi> and of the <hi>Diſpenſing-Power.</hi> And there is not that Clergy-Man this day in <hi>England,</hi> who has not Exalted the <hi>Regal Power</hi> much higher than the Law of the Land, and are bound to regard the <hi>King's Private Command,</hi> as they do His <hi>Private Commiſſion,</hi> more than His Authority; or, (which is the ſame) the Law of the Land. Thus much all our Clergy, before their Inſtitution and Inducti<g ref="char:EOLhyphen"/>on, have ſolemnly declar'd. And no other Reaſon can be aſſign'd for our diſlike of the <hi>Declaration,</hi> but this; That we are againſt
+<pb n="7" facs="tcp:31338:4"/>
+               <hi>Liberty of Conſcience.</hi> It is the <hi>King</hi>'s Diſpenſing with thoſe Laws that are made againſt <hi>Diſsenters,</hi> that diſpleaſes you. And ſee<g ref="char:EOLhyphen"/>ing, when a Law is made, it muſt be put in Execution, or there muſt be a Suſpending the Execution by a Diſpenſing-Power, or a <hi>Repeal:</hi> Thoſe who are againſt the <hi>Repeal,</hi> as you undoubtedly are, and alſo againſt the Diſpenſing with thoſe Laws, muſt be for their Execution, <hi>i. e.</hi> for the filling of our Goals with <hi>Diſſenters,</hi> Riffling their Houſes, Ruining their Families, and deſtroying their Perſons. This muſt be the thing aim'd at by thoſe who cannot approve of the <hi>King's Declaration</hi> for Liberty: And ſeeing this is the thing you wou'd be at, how can you expect the <hi>Diſſenters</hi> ſhou'd truſt you? Or how can you, without bluſhing ſay, you are for due tenderneſs to <hi>Diſſenters,</hi> even when you will rather ſuffer your ſelves, than that the <hi>Diſsenters</hi> enjoy the leaſt eaſe?</p>
+            <p n="2">
+               <hi>2dly.</hi> To the Second, Reading is not an <hi>Overt-Act</hi> of Appro<g ref="char:EOLhyphen"/>ving: Don't you remember, how many invidious Excommunica<g ref="char:EOLhyphen"/>tions have been ſent down unto us to Publiſh; which we have done, without making our ſelves a Party: Or can you forget the Diſtinction we have us'd to eſcape the Cenſure of the <hi>Phanaticks,</hi> about being Conſenters to every thing that we Subſcribe unto? We conſent to the Uſe, but not the Sayings. And if Uſing the <hi>Common-Prayer-Book,</hi> which is done by Reading, be not Con<g ref="char:EOLhyphen"/>ſenting; how comes it to paſs, that Reading, in the preſent Caſe, muſt be Conſenting. Furthermore,</p>
+            <p n="3">
+               <hi>3dly.</hi> To Read it, and at the ſame time to Diſſent, is not <hi>Pro<g ref="char:EOLhyphen"/>teſtatio contra Factum.</hi> There is a difference between Reading, that is the <hi>Factum;</hi> and Conſenting; and Proteſting againſt Con<g ref="char:EOLhyphen"/>ſenting, is not <hi>Proteſtatio contra Factum.</hi> To Read it, and Pro<g ref="char:EOLhyphen"/>teſt againſt Reading, is <hi>Proteſtatio contra Factum:</hi> But to Read, and Proteſt you do not Conſent, is not ſuch a Proteſtation. But,</p>
+            <p n="4">
+               <hi>4ly.</hi> Reading the <hi>Declaration,</hi> will influence the People from taking off the <hi>Penal Laws</hi> and <hi>Teſts:</hi> And I am of your Opinion in this: for, let the Multitude but underſtand, that the <hi>Teſt-Laws</hi> ſhall continue until we have better ſecurity for our Religion, our Civil Rights and Properties, which is the thing His Maje<g ref="char:EOLhyphen"/>ſty declares, and it's not to be doubted, but every Man of Senſe will be for taking off the very <hi>Teſts.</hi> But you miſtake, when you add; <hi>That the taking off the</hi> Teſt, <hi>is opening the door to let in</hi>
+               <pb n="8" facs="tcp:31338:5"/>Popery, <hi>to the Ruine of the</hi> Church <hi>of</hi> England. For we need not fear <hi>Popery,</hi> unleſs the <hi>Papiſts</hi> have Power enough to drive us to their Religion by Perſecution. And the taking off the <hi>Teſts,</hi> on the Terms His Majeſty Propoſes, will give us greater ſecurity againſt Perſecution, than now we have. A Legal Eſtabliſhment which His Majeſty offers our Church, will give us ſuch a Securi<g ref="char:EOLhyphen"/>ty, as will pleaſe this whole Nation. At preſent our Security is erected on the Spoils of a great part of the Kingdom; who are hereby diſquieted. For, our Safety lies in this, That no one, but a <hi>Church-Man</hi> be legally intereſted in the Favour of his Prince, or in the Advantages of the Government. All others muſt, for their Conſciences be in conſtant Danger of inevitable Ruine. On which occaſion, we have been look'd on as the Common Enemy to their Peace. But let our Security be ſuch, as hurts not the Conſciences nor Eſtates of others, which may be, by taking off <hi>Penal Laws</hi> and <hi>Teſts,</hi> the Bond of Contention will be re<g ref="char:EOLhyphen"/>mov'd, and what is frightful in our Church, will diſappear. We ſhall be look'd on as a Siſter, and be Treated accordingly. And to the end that we may be Secur'd from any Dangers that may be ſuppoſed to ariſe from the <hi>Roman Catholicks,</hi> we ſhall have a double Advantage. In the firſt place, we ſhall have a new Law, confirming us in the free Exerciſe of our Religion, and full Enjoyment of our Poſſeſſions. And in the next place, By putting it out of the Power of any one Party to Perſecute the other, we ſhall be out of the Power of <hi>Popiſh</hi> Perſecutions. And to prevent any change on this Law, we ſhall have the help of all the <hi>Diſſenting-Proteſtants</hi> to joyn with us, who will be affraid any Alteration ſhould be made on it, leſt thereby they al<g ref="char:EOLhyphen"/>ſo loſe their Security. Which Security, once obtain'd, will be moſt grateful unto the Nobility and Gentry you mention.</p>
+            <p>Thus Sir, I have freely open'd my ſelf unto you; <hi>Praying Al<g ref="char:EOLhyphen"/>mighty God to give our Right Reverend Fathers more Wiſdom, that They may not be impos'd on by thoſe who love 'em not, but may ſuddainly be brought to that Temper, which is neceſſary towards the Healing our Breaches, and the Eſtabliſhing the Peace of our</hi> Iſrael.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:31338:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
